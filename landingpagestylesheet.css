@@ -1,0 +1,68 @@
+body{
+    background-image: url(West-German-Shepherd-Upstate-NY.JPG);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Shadows Into Light', cursive;
+    background-repeat: no-repeat;
+    overflow:hidden;
+}
+html{
+    height:100%;
+}
+
+#content{
+    text-align: center;
+    color:white;
+    font-weight: 700px;
+    width: auto;
+    margin: auto;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+
+.button.btn.btn-secondary{
+    color:white;
+    position: absolute;
+    margin-bottom:5%;
+    margin: auto;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large;
+    width:auto;
+}
+
+h3{
+    display: flex;
+    font-family: 'Shadows Into Light', cursive;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    width:auto;
+    padding-left: 2%;
+    padding-right: 5%;
+    font-size: x-large;
+}
+
+div.row{
+    position: absolute;
+    bottom:0; 
+    width: auto;
+}
+
+div#content{
+    width: auto;
+    text-align: center;
+    justify-content: center;
+}

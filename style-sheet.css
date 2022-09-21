@@ -1,0 +1,233 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:21px;
+    background-color: rgb(203, 212, 203);
+    height: 100vh !important;
+}
+
+div{
+    display: flex;
+}
+
+.navbar-brand{
+    border: 100px,black;
+}
+
+.navbar.navbar-expand-lg.navbar-light{
+    background-color: #847445;
+    color:black;
+}
+
+li.social{
+    display: inline;
+}
+
+.social a{
+color:black;
+}
+
+.social a:hover{
+    color: white;
+}
+
+ul.sm-icons{
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+}
+
+a.navbar-item.nav-link{
+    background-color:#847445;
+    font-weight: bold;
+    padding-left: 2;
+    padding-right: 2;
+    padding-top:8;
+}
+
+a.navbar-item.nav-link:hover{
+    color:#000000;
+    background-color:white;
+    font-weight:bold;
+}
+.navbar.navbar-expand-lg.navbar-light.sticky-top{
+padding-left: 0;
+padding-right: 8;
+}
+
+#navbarText{
+    justify-content: left;
+}
+
+#index{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: #847445;
+}
+
+a.active{
+    color:white;
+    font-weight: bold;
+    padding-right: 4;
+    padding-bottom:0;
+    padding-top: 8;
+}
+
+a.active:hover{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    }
+
+
+.img-fluid{
+    width: 100%;
+    max-height: auto;
+}
+
+#AKC{
+    padding-top: 5%;
+    padding-left: 8%;
+    padding-right:5%;
+}
+
+#OFA{
+    padding-top: 5%;
+    padding-right: 5%;
+
+}
+
+#SV-DOxS{
+    padding-top: 5%;
+    padding-right:5%;
+}
+
+div.credentials{
+    background:white;
+    padding:2%;
+    padding-bottom:5%;
+}
+
+#subtitle{
+    text-align: center;
+    padding-top: 2%;
+    color: #847445;
+}
+
+#aboutBody{
+    color:black;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 1%;
+}
+
+#femalestats{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
+ul.femalelist{
+    padding-left: 10%;
+}
+
+#female{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+#studdog{
+    text-align: center;
+}
+
+#application{
+    width: 100%;
+    height: 100%;
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+    max-height: 900px;
+}
+
+.mainSocial{
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    display: inline;
+    float: left;
+    list-style: none;
+}
+
+.mainSocial :hover{
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+
+}
+a :hover{
+    text-decoration: none;
+}
+
+a :active{
+    text-align: justify;
+}
+
+a#email{
+    color:#847445;
+    text-decoration: underline;
+}
+
+a.underline {
+    color:#847445;
+    text-decoration: underline;
+}
+
+#contact{
+    padding-left: 2%;
+    padding-top: 2%;
+    font-size: 3vw;
+}
+
+#contact :hover{
+    color: white;
+    text-decoration: none;
+}
+
+#contact > a {
+  font-size: 28px;
+}
+
+#contactForm{
+    width: 100%;
+    height: 100%;
+}
+
+span{
+    color: #847445;
+}
+
+#studdogphotos{
+    font-size: 10px;
+    text-align: left;
+}
+
+.contact-main-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-container-item {
+  flex: 1 1;
+  min-height: 450px;
+  min-width: 300px;
+}
